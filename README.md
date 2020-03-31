@@ -1,2 +1,2 @@
 # gitops
-gitops example
+gitops aws eks example
